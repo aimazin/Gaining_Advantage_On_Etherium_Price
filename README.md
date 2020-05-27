@@ -23,6 +23,14 @@ I have been a victim of scams discussing the boom is cryptos, so i made a more t
 
 ethMay2020.ipynb: containing python analysis of datasets
 
+## Results
+
+- a model for predicting percentage gains using technical indicators
+
+- a model for assessing indicators state at a point in time
+
+- visual proof of these models efficacy
+
 
 
 ## Acknowledgements
