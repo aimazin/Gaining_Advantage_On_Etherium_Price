@@ -5,7 +5,7 @@ an analysis of how to go long on etherium price
 ## Table of Contents
 
 - ethMay2020.ipynb
-
+- ethMay2020.html
 
 ## Installations
 
@@ -21,7 +21,8 @@ I have been a victim of scams discussing the boom is cryptos, so i made a more t
 
 ## File Description  
 
-ethMay2020.ipynb: containing python analysis of datasets
+- ethMay2020.ipynb: jupyter notebook containing python analysis of datasets
+- ethMay2020.html: HTML version of notebook
 
 ## Results
 
