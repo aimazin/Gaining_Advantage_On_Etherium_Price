@@ -1,5 +1,5 @@
-# Gaining_Advantage_On_Etherium_Price
-an analysis of how to go long on etherium price
+# Gaining_Advantage_On_Ethereum_Price
+an analysis of how to go long on ethereum price
 
 
 ## Table of Contents
