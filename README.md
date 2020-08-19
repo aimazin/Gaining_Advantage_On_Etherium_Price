@@ -32,6 +32,10 @@ I have been a victim of scams discussing the boom is cryptos, so i made a more t
 
 - visual proof of these models efficacy
 
+## Licence
+
+I authorize any none malicious use of this code.
+
 
 
 ## Acknowledgements
