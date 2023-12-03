@@ -43,6 +43,7 @@ I authorize any none malicious use of this code.
 DataCamp Team on which some the analysis is based
 
 
-## Licence
+## License
 
-I authorize any none malicious use of this code.
+This project is licensed under the Apache License 2.0 - see the [LICENSE](LICENSE) file for details.
+
